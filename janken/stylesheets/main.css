@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'ＭＳ ゴシック', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'ＭＳ ゴシック', sans-serif;
+}
+
+div#app {
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #d0d0d0;
+}
+
+div.app-body-senario-content {
+    margin-left: 20px;
+    font-family: 'ＭＳ 明朝', serif;
+    white-space: pre-line;
+}
